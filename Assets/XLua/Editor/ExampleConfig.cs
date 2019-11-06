@@ -53,7 +53,7 @@ public static class ExampleConfig
     //    "EventProvider", "Apple",
     //    "ClusterInput", "Motion",
     //    "UnityEngine.UI.ReflectionMethodsCache", "NativeLeakDetection",
-    //    "NativeLeakDetectionMode", "WWWAudioExtensions", "UnityEngine.Experimental",
+    //    "NativeLeakDetectionMode", "WWWAudioExtensions", "UnityEngine.Experimental","UnityEngine.TestTools"
     //};
 
     //static bool isExcluded(Type type)
